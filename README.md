@@ -16,7 +16,7 @@
 1. Clone this repo
 
 ```console
-git clone https://github.com/italocosilva/mlflow-tutorial.git
+git clone git@github.com:saniodev/mlflow.git
 ```
 
 2. Create a Python venv
@@ -26,7 +26,7 @@ git clone https://github.com/italocosilva/mlflow-tutorial.git
     Inside of the clonned path run:
 
 ```console
-python -m venv .env
+py -m venv .env
 ```
 
 3. Activate venv
